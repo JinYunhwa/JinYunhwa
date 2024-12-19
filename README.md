@@ -12,7 +12,7 @@
 # 참여 프로젝트
 
 ## [Documento: LLM 기반 논문 탐색 및 요약 서비스](https://www.documento.click/)
-- **설명**: LLM 기반 논문 탐색 및 요약 서비스인 Documento입니다. 전반적인 프론트엔드를 담당했으며, Vue.js를 통한 화면 구현 및 pinia를 활용한 상태관리를 하였고, AWS Amplify를 통해 CI/CD를 구축하였습니다. 그리고 Snowflake모델을 활용하여 논문간 유사도를 측정하여 선행 논문을 추천하는 기능을 개발하였습니다.
+- **설명**: LLM 기반 논문 탐색 및 요약 서비스인 Documento입니다. 전반적인 프론트엔드를 담당했으며, Vue.js를 통한 화면 구현 및 pinia를 활용한 상태관리를 하였습니다. 또한, Fast API로 이루어진 Backend와 통신을 성공적으로 연결하였으며, AWS Amplify를 통해 CI/CD를 구축하였습니다. 그리고 Snowflake모델을 활용하여 논문간 유사도를 측정하여 선행 논문을 추천하는 기능을 개발하였습니다.
 - **주요 기술 스택**: <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 - **링크**: [SKN03-FINAL-1Team](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-FINAL-1Team)
 
